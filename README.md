@@ -16,7 +16,7 @@ A beginner-friendly Python program that generates strong random passwords using 
 - random module
 - string module
 
-## 2️.Number Guessing Game
+# 2️.Number Guessing Game
 A simple command-line game where the user tries to guess a randomly generated number.
 ## Features
 - Random number generation between 1 and 100
@@ -31,7 +31,7 @@ A simple command-line game where the user tries to guess a randomly generated nu
 -while loops and conditional statements
 
 
-## 3.Simple Calculator
+# 3.Simple Calculator
 A command-line calculator that performs basic arithmetic operations.
 ## Features
 - Addition, subtraction, multiplication, division
@@ -47,7 +47,7 @@ A command-line calculator that performs basic arithmetic operations.
 - User input handling
 
 
-## 4.Unit Converter
+# 4.Unit Converter
 A command-line tool that converts between different units.
 ## Features
 - Kilometers ↔ Miles
