@@ -1,4 +1,4 @@
-# python-mini-projects
+# Python-Mini-Projects
 This repository contains beginner-friendly Python projects I built while learning Python.
 ## Projects
 
