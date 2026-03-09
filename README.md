@@ -9,9 +9,9 @@ A beginner-friendly Python program that generates strong random passwords using 
 - Includes uppercase, lowercase, numbers, and symbols
 - Simple command-line interface
 # Steps
-Enter the desired password length
-The program outputs a randomly generated secure password
+- Enter the desired password length
+- The program outputs a randomly generated secure password
 # Technologies
-Python
-random module
-string module
+- Python
+- random module
+- string module
