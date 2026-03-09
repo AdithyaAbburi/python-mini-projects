@@ -1,6 +1,6 @@
 # Python-Mini-Projects
 This repository contains beginner-friendly Python projects I built while learning Python.
-## Projects
+# Projects
 
 # 1.Password Generator
 A beginner-friendly Python program that generates strong random passwords using letters, numbers, and symbols.
