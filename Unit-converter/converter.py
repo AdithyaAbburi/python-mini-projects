@@ -27,7 +27,7 @@ def km_to_miles(km):
 
 
 def main():
-    print("==== Measurement Converter ====")
+    print("Measurement Converter")
     print("1. Fahrenheit → Celsius")
     print("2. Celsius → Fahrenheit")
     print("3. Inches → Centimeters")
@@ -70,3 +70,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
