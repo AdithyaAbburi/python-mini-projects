@@ -1,4 +1,4 @@
-print("🧮 Simple Calculator")
+print("Simple Calculator")
 
 print("1. Add")
 print("2. Subtract")
@@ -24,3 +24,4 @@ elif choice == "4":
 
 else:
     print("Invalid choice")
+
